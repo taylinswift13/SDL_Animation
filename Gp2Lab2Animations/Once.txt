@@ -1,0 +1,3 @@
+SpriteSheet_Eagle.txt 
+Once
+0 1 2 3 

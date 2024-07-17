@@ -1,0 +1,8 @@
+﻿main.obj : error LNK2019: 无法解析的外部符号 SDL_GetError，函数 SDL_main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 SDL_CreateWindow，函数 SDL_main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 SDL_DestroyWindow，函数 SDL_main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 SDL_PollEvent，函数 SDL_main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 SDL_Init，函数 SDL_main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 SDL_Quit，函数 SDL_main 中引用了该符号
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+C:\Users\86189\Desktop\gp2-lab2-folklore-master\gp2-lab2-folklore-master\x64\Debug\Gp2Lab2Animations.exe : fatal error LNK1120: 7 个无法解析的外部命令
